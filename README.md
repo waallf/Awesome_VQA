@@ -29,3 +29,4 @@
 [Visual Entailment: A Novel Task for Fine-Grained Image Understanding](https://arxiv.org/pdf/1901.06706.pdf) 使用self-attention    
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1901-06706)
 
+我就试一试
