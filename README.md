@@ -1,3 +1,3 @@
-# Awesome_VQA ![Awesome](https://img.shields.io/david/peer/https://github.com/alisure-ml/awesome-visual-relationship-detection/ww.svg?colorB=green&label=VRD&logo=ww&logoColor=yellow)
+# Awesome_VQA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/waallf/Awesome_VQA)
 
 
