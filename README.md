@@ -23,7 +23,7 @@
 [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/pdf/1902.07864.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-07864)
 
-[BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection(https://arxiv.org/pdf/1902.00038.pdf)   
+[BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/pdf/1902.00038.pdf)   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-00038)  
 
 [Visual Entailment: A Novel Task for Fine-Grained Image Understanding](https://arxiv.org/pdf/1901.06706.pdf) 使用self-attention    
