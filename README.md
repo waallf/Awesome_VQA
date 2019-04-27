@@ -1,7 +1,8 @@
 # Awesome_VQA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/waallf/Awesome_VQA)
 ==主要介绍使用VQA2.0数据集作为评价指标的论文，使用CLEVR数据集的因为指标已经很高，所以不是关注的重点  
 [主流数据集VQA2.0介绍](https://arxiv.org/pdf/1505.00468.pdf)  
-[Clevr数据集](https://arxiv.org/abs/1612.06890)[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AntolALMBZP15)  
+[Clevr数据集](https://arxiv.org/abs/1612.06890)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AntolALMBZP15)  
 
 许多网络的基础  
 [ottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998)  
