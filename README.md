@@ -1,9 +1,14 @@
 # Awesome_VQA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/waallf/Awesome_VQA)
 ==主要介绍使用VQA2.0数据集作为评价指标的论文，使用CLEVR数据集的因为指标已经很高，所以不是关注的重点  
 [主流数据集VQA2.0介绍](https://arxiv.org/pdf/1505.00468.pdf)  
-[Clevr数据集](https://arxiv.org/abs/1612.06890)[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AntolALMBZP15)
+[Clevr数据集](https://arxiv.org/abs/1612.06890)[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AntolALMBZP15)  
+
+许多网络的基础  
+[ottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AndersonHBTJGZ17)
+
 ## 使用视觉关系/场景图来做
-[Relation-aware Graph Attention Network for Visual Question Answering](https://arxiv.org/pdf/1903.12314.pdf)   所看结果最高，代码公开，还是图神经网络结果好 emmm..
+[Relation-aware Graph Attention Network for Visual Question Answering](https://arxiv.org/pdf/1903.12314.pdf)   所看结果最高，代码公开，还是图神经网络结果好 emmm..  
 [Bibtex](http://xueshu.baidu.com/u/citation&url=http%3A%2F%2Farxiv.org%2Fabs%2F1903.12314&sign=17cc4cb77edb17296ac50e12a117f52a&diversion=null&t=bib)
 
 [Generating Natural Language Explanations for Visual Question Answering Using Scene Graphs and Visual Attention](https://arxiv.org/pdf/1902.05715.pdf)  没有评价指标，但是是在场景图基础上做的VQA  
