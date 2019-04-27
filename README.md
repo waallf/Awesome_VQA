@@ -24,6 +24,8 @@
 [Multi-modal Learning with Prior Visual Relation Reasoning](https://arxiv.org/pdf/1812.09681.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1812-09681)  
 
+[详解](./detail/Multi-modal Learning with Prior Visual Relation Reasoning.md)  
+
 [Bilinear Attention Networks](https://arxiv.org/pdf/1805.07932.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1805-07932)  
 
