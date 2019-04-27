@@ -35,6 +35,12 @@
 [Learning to Reason: End-to-End Module Networksfor Visual Question Answering](https://arxiv.org/pdf/1704.05526.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/HuARDS17）
 
+[Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/JohnsonHMHLZG17)  
+
+[FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1709-07871) 
+
 ## 其他  
 [Question Guided Modular Routing Networks for Visual Question Answering](https://arxiv.org/pdf/1904.08324.pdf)   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1806-07243)  
@@ -44,14 +50,7 @@
 
 [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487.pdf)   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-09487)
-
-[Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633)  
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/JohnsonHMHLZG17)
-
-他的主要参考文献：  
-[FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)  
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1709-07871)  
-
+ 
 [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/pdf/1902.07864.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-07864)
 
@@ -63,9 +62,6 @@
 
 [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-03067)
-
-[Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067)  
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-03067)  
 
 [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/HuARDS17)  
