@@ -6,7 +6,7 @@ In this work, we explore to model relations by contextual-sensitive embeddings b
 
 ### 1 先用一个简单的网络产生场景图  
 
-![捕获](Multi-modal Learning with Prior Visual Relation Reasoning.assets/捕获.PNG)
+![捕获](./Multi-modal Learning with Prior Visual Relation Reasoning.assets/捕获.PNG)
 
 ###  2  Anisotropic Graph Convolution(AGConv) 
 
