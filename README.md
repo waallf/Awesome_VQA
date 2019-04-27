@@ -28,6 +28,12 @@
 
 [Bilinear Attention Networks](https://arxiv.org/pdf/1805.07932.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1805-07932)  
+## 用一个语句处理方法，提取出句子中的关键字，然后进行预测  
+[Deep Compositional Question Answering with Neural Module Networks](https://arxiv.org/pdf/1511.02799.pdf) 这个方向的鼻祖，利用问题产生不同的网络，还没找见代码  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AndreasRDK15）
+
+[Learning to Reason: End-to-End Module Networksfor Visual Question Answering](https://arxiv.org/pdf/1704.05526.pdf)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/HuARDS17）
 
 ## 其他  
 [Question Guided Modular Routing Networks for Visual Question Answering](https://arxiv.org/pdf/1904.08324.pdf)   
@@ -38,6 +44,9 @@
 
 [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487.pdf)   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-09487)
+
+[Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/JohnsonHMHLZG17)
 
 他的主要参考文献：  
 [FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)  
@@ -61,5 +70,3 @@
 [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/HuARDS17)  
 
-[Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633)  
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/JohnsonHMHLZG17)
