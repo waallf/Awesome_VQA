@@ -28,6 +28,13 @@
 
 [Bilinear Attention Networks](https://arxiv.org/pdf/1805.07932.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1805-07932)  
+
+[Visual Entailment: A Novel Task for Fine-Grained Image Understanding](https://arxiv.org/pdf/1901.06706.pdf) 使用self-attention    
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1901-06706)
+
+[MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487.pdf)   
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-09487)
+
 ## 用一个语句处理方法，提取出句子中的关键字，然后进行预测  
 [Deep Compositional Question Answering with Neural Module Networks](https://arxiv.org/pdf/1511.02799.pdf) 这个方向的鼻祖，利用问题产生不同的网络，还没找见代码  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/AndreasRDK15）
@@ -41,28 +48,22 @@
 [FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1709-07871) 
 
+[Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526)  
+[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/HuARDS17)  
 ## 其他  
-[Question Guided Modular Routing Networks for Visual Question Answering](https://arxiv.org/pdf/1904.08324.pdf)   
+[Question Guided Modular Routing Networks for Visual Question Answering](https://arxiv.org/pdf/1904.08324.pdf)创建了一个路由网络   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1806-07243)  
 
-[Answer Them All! Toward Universal Visual Question Answering Models](https://arxiv.org/pdf/1903.00366.pdf)  
+[Answer Them All! Toward Universal Visual Question Answering Models](https://arxiv.org/pdf/1903.00366.pdf)   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1903-00366)
 
-[MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487.pdf)   
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-09487)
- 
 [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/pdf/1902.07864.pdf)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-07864)
 
 [BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/pdf/1902.00038.pdf)   
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1902-00038)  
 
-[Visual Entailment: A Novel Task for Fine-Grained Image Understanding](https://arxiv.org/pdf/1901.06706.pdf) 使用self-attention    
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1901-06706)
-
 [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067)  
 [Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-03067)
 
-[Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526)  
-[Bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/HuARDS17)  
 
